@@ -1,4 +1,3 @@
-Exercise 6 – Counting parentheses and brackets
 Given 𝑛 pairs of parentheses and 𝑚 pairs of square brackets, write a function to count all combinations
 of well-formed sequences.
 In the well-formed sequence, each square brackets pair cannot be enclosed within parenthesis pair.
