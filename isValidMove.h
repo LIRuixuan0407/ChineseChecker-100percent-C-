@@ -4,8 +4,6 @@
 #include <stdio.h>
 #include <stdbool.h>
 
-#define abs(x) ((x) > 0 ? (x) : -(x))
-
 bool isWithinBoard(int x, int y);
 
 int isSingleStep(const int board[], int startX, int startY, int endX, int endY);
